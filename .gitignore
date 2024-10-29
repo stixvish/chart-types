@@ -1,2 +1,5 @@
 # pyenv
 .python-version
+
+# internal files
+keys.json
